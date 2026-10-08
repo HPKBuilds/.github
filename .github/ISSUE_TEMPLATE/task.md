@@ -17,8 +17,16 @@ labels: []
 - 
 
 ## Acceptance criteria
-<!-- Testable statements. Normal/high risk: name the tests that must pass. High risk: tests are written before implementation. -->
+<!-- See global/task-spec.md. High risk: the planner writes the permanent tests before implementation. -->
+### Permanent: tests and CI checks (stay in the suite)
 - [ ] 
+
+### One-time checks (shown once in the PR's "How to test")
+- [ ] 
+
+## Dependencies allowed
+<!-- New dependencies the implementer may add -->
+- none
 
 ## Protected files
 <!-- Files the implementer must not change without approval (acceptance specs, contract, CI config) -->
