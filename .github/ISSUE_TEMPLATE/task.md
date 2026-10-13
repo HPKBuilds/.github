@@ -28,6 +28,10 @@ labels: []
 <!-- New dependencies the implementer may add -->
 - none
 
+## Departures from defaults
+<!-- Where the spec makes the code depart from the framework's or a library's default behaviour, each with why; the owner approves each -->
+- none
+
 ## Protected files
 <!-- Files the implementer must not change without approval (acceptance specs, contract, CI config) -->
 - 
